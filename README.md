@@ -1,2 +1,2 @@
 # BMI-Calculator
-//Calculates your BMI
+//Calculates your BMI with info
