@@ -1,2 +1,2 @@
 # BMI-Calculator
-//Calculates your BMI with info
+//Calculates your BMI asking for user input
